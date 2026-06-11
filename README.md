@@ -13,6 +13,18 @@ A record of my first day learning Python. Each file builds on the last concept.
 | `calc.py` | Functions, conditionals | Calculator with 4 operations — user picks operation and enters two numbers |
 | `ex2.py` | Conditionals, modulo operator | Takes a number and checks if it's positive/negative/even/odd |
 
+day_1_basics/
+  ├── pl.py
+  ├── input.py
+  ├── ex1.py
+  └── fav.py
+
+day_1_projects/
+  ├── calc.py
+  ├── ex2.py
+  ├── cond.py
+  └── favani.py
+
 ## How to run
 
 ```bash
